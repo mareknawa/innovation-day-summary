@@ -1,3 +1,14 @@
+# Presentation
+## What about
+The presentation shows current status of initative "Innovation day" on date 2017.01.18. You can learn about:
+* basic rules
+* how others used their Innovation day
+
+## How to open presentation
+You can see the presentation under URL: [https://mareknawa.github.io/innovation-day-summary/](https://mareknawa.github.io/innovation-day-summary/#/?_k=v0h59m)
+
+You can open the presentation in [presenter mode](https://mareknawa.github.io/innovation-day-summary/#/?presenter&_k=v0h59m) too.
+
 # Spectacle Boilerplate
 
 ## Reference
