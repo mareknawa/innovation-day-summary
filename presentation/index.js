@@ -58,7 +58,7 @@ export default class Presentation extends React.Component {
         <Deck transition={["zoom", "slide"]} transitionDuration={500}>
           <Slide transition={["zoom"]} bgColor="primary">
             <Heading size={1} fit caps lineHeight={1} textColor="black">
-              <Link href="https://wiki.hybris.com/display/ytech/Team+Idefix+Innovation+Days" target="window">
+              <Link href="https://wiki.hybris.com/x/T7-vEg" target="window">
                 Facts about Innovation Days
               </Link>
             </Heading>
